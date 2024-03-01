@@ -1,0 +1,16 @@
+{
+    "go.useLanguageServer": true,
+    "editor.codeActionsOnSave": {},
+    "go.formatTool": "gofumpt",
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    },
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "go.gopath": "",
+    "workbench.startupEditor": "none"
+}
