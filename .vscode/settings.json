@@ -12,5 +12,6 @@
     "code-runner.clearPreviousOutput": true,
     "code-runner.runInTerminal": true,
     "go.gopath": "",
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "go.toolsManagement.autoUpdate": true
 }
