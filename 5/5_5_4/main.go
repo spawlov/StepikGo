@@ -25,9 +25,4 @@ func main() {
 	}
 
 	fmt.Println(strings.Trim(fmt.Sprint(numbers), "[]"))
-
-	// for _, number := range numbers {
-	// 	fmt.Print(number, " ")
-	// }
-	// fmt.Print("\n")
 }
